@@ -1,2 +1,2 @@
 # self-driving-car
-Self-driving car with neural networks in python
+Self-driving car with deep neuroevolution in Python
